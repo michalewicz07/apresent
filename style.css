@@ -3,7 +3,7 @@ h1 {font: size 450px;
 }
 body{background-color: rgb(143, 99, 184);
 }
-h2{background-color: rgb(143, 99, 184);
+h2{background-color: rgba(203, 165, 238, 0.925);
 }
 title{font-size: 200px;
 }
@@ -11,5 +11,5 @@ title{background-color: rgb(73, 32, 112);
 }
 img{display: left: 330px;
 }
-img{text-align: center;
+h1{text-align: center;
 }
